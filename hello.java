@@ -5,6 +5,7 @@ public class Hello {
             System.out.println("Hello World..."+i);
             sum += i;
             System.out.println("Sum: " + sum)
+            System.out.println("Adding numbers is fun!")
         }
     }
 }
